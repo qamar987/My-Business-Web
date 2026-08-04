@@ -57,7 +57,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onNavigate, onOpenBookingM
         <div className="lg:col-span-5 relative">
           <div className="rounded-2xl overflow-hidden border-2 border-slate-800 shadow-2xl relative">
             <img
-              src="/src/assets/images/certified_electrician_team_1785840797262.jpg"
+              src="/assets/images/certified_electrician_team_1785840797262.jpg"
               alt="Qamar Power Certified Electrician Team Qamar Hussain"
               referrerPolicy="no-referrer"
               className="w-full h-80 sm:h-96 object-cover"
