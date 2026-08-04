@@ -40,7 +40,7 @@ export const HomePage: React.FC<HomePageProps> = ({
         {/* Background Image with Overlay */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/electrician_hero_banner_1785840779792.jpg"
+            src="/assets/images/electrician_hero_banner_1785840779792.jpg"
             alt="Qamar Power Electrician working on breaker panel"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover opacity-25 filter contrast-125"
@@ -394,7 +394,7 @@ export const HomePage: React.FC<HomePageProps> = ({
           <div className="lg:col-span-6 relative">
             <div className="relative rounded-2xl overflow-hidden border-2 border-slate-800 shadow-2xl">
               <img
-                src="/src/assets/images/certified_electrician_team_1785840797262.jpg"
+                src="/assets/images/certified_electrician_team_1785840797262.jpg"
                 alt="Qamar Power Certified Master Electrician Qamar Hussain"
                 referrerPolicy="no-referrer"
                 className="w-full h-80 lg:h-[400px] object-cover"
