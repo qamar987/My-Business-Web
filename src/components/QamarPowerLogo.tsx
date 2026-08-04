@@ -44,7 +44,7 @@ export const QamarPowerLogo: React.FC<QamarPowerLogoProps> = ({
       >
         {!imgError ? (
           <img
-            src="/src/assets/images/logo.png"
+            src="/assets/images/logo.png"
             alt="Qamar Power Logo"
             onError={() => setImgError(true)}
             className="w-full h-full object-contain rounded"
