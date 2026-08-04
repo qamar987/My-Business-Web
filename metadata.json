@@ -1,0 +1,6 @@
+{
+  "name": "Qamar Power Electrical Services",
+  "description": "Professional electrical services for residential, commercial, and new construction projects. 24/7 emergency service, licensed master electricians, certified safety inspections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
